@@ -12,8 +12,6 @@ This is a demo of a stack using Express, Apollo GraphQL Server, and MongoDB on t
 
 ---
 
-## Notes
-
 ## Links
 
 [Get started with Apollo Server](https://www.apollographql.com/docs/apollo-server/getting-started/)
@@ -23,6 +21,10 @@ This is a demo of a stack using Express, Apollo GraphQL Server, and MongoDB on t
 [MongoDB Compass](https://www.mongodb.com/download-center/compass)
 
 [Mongoose v5.7.2: Schemas](https://mongoosejs.com/docs/guide.html)
+
+---
+
+## Notes
 
 ## Install initial dependencies
 
